@@ -1,10 +1,10 @@
-# react-thing
+# react-bootstrap-modal-plus
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe react-thing here.
+React Bootstrap Modal -- with ability to pass content (title/body/footer) via props, and much more!
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.svg?style=flat-square
 [build]: https://travis-ci.org/user/repo
